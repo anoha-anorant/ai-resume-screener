@@ -1,6 +1,6 @@
 streamlit
-pdfplumber
 pandas
-scikit-learn
+pdfplumber
 nltk
-matplotlib
+scikit-learn
+plotly
